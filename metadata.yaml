@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '43789'
     url: http://www.gutenberg.org/2009/agents/43789
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27904#Une-journ-e-a-Pise--13-guide-historique-artistique-et-commercial
 gutenberg_bookshelf: FR Villes
 gutenberg_issued: '2009-01-27'
 gutenberg_type: Text
